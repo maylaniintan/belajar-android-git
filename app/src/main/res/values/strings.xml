@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SimpleApplication</string>
+    <string name="Button_1">GO TO FRAGMENT</string>
+    <string name="Button_2">GO TO ACTIVITY</string>
+
+</resources>
