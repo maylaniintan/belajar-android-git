@@ -21,7 +21,8 @@
         <activity android:name=".FirstFragment" />
         <activity android:name=".SecondFragment" />
         <activity android:name=".SplashScreen" />
-        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".ItemMahasiswa"></activity>
     </application>
 
 </manifest>

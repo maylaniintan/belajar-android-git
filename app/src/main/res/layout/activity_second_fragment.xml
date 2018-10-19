@@ -6,4 +6,10 @@
     android:layout_height="match_parent"
     tools:context="com.amikom.simpleapplication.SecondFragment">
 
+    <TextView
+        android:id="@+id/textSecondActivity"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Second Activity"/>
+
 </android.support.constraint.ConstraintLayout>
